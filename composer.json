@@ -1,9 +1,9 @@
 {
-	"name": "abhijitkane/flaps",
+	"name": "postman/flaps",
 	"type": "library",
 	"description": "Modular library for rate limiting requests in applications",
 	"keywords": ["rate limit", "throttle", "http"],
-	"homepage": "https://github.com/abhijitkane/flaps",
+	"homepage": "https://github.com/postmanlabs/flaps",
 	"license": "ISC",
 	"authors": [
 		{
@@ -27,6 +27,6 @@
 	},
 	"autoload": {
 		"psr-4": {"BehEh\\Flaps\\": "src/Flaps"}
-	}	
+	}
 }
 
